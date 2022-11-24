@@ -12,7 +12,7 @@ The following library is required:
 1. Windows
     * First of all, Let clone this repositorie
     ```
-     git clone https://github.com/patrickhaddadteaching/codepin1
+     git clone https://github.com/patrickhaddadteaching/onetimepad
     ```
     * [Download and install the latest Miniconda](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links).
     * Open the Anaconda Powershell Prompt associated to Miniconda3 and type the following commands to install  to install all the dependencies required by this exercise.
