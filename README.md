@@ -23,13 +23,13 @@ The following library is required:
     ```
     * Now, you can either launch the notebook by executing the folowing command in the directory where you cloned this repositorie.
     ```
-    jupyter-notebook.exe .\codepin1.ipynb
+    jupyter-notebook.exe .\onetimepad_binder.ipynb
     
     ```
     
     * Or, you can directly launch it with voila  by executing the folowing command in the directory where you cloned this repositorie.
     ```
-    voila.exe .\codepin1.ipynb
+    voila.exe .\onetimepad_binder.ipynb
     ```
 2. Linux
 3. Mac OS X
