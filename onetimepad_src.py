@@ -12,8 +12,8 @@ for i in range(26):
     current_char=chr(i+0x41)
     v_car_uc.append(current_char)
 v_car_uc.append('?')
-v_car_uc.append('+')
-v_car_uc.append('-')
+v_car_uc.append('!')
+v_car_uc.append(':')
 v_car_uc.append(',')
 v_car_uc.append('.')
 
